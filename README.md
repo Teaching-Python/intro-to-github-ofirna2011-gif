@@ -3,9 +3,9 @@ Instructions for Students / הנחיות לתלמידים
 Do not write your code directly on GitHub. First, make sure it works in a "Sandbox":
 אל תכתבו את הקוד ישירות בגיטהאב. ראשית, וודאו שהוא עובד ב"ארגז חול":
 
-Step 1: Open the Online Python Compiler.
+Step 1: Open the Online Python Compiler.  https://www.programiz.com/python-programming/online-compiler/
 
-שלב 1: פתחו את הקומפיילר המקוון לפייתון.
+שלב 1: פתחו את הקומפיילר המקוון לפייתון. https://www.programiz.com/python-programming/online-compiler/
 
 Step 2: Write your code and click Run. Make sure it prints hello world.
 
